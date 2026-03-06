@@ -34,7 +34,7 @@ ai-bug-severity-predictor
 
 Clone the repository
 
-git clone https://github.com/your-username/ai-bug-severity-predictor.git
+git clone https://github.com/taniawazir/ai-bug-severity-predictor
 
 Go to project directory
 
